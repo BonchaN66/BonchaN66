@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=600&lines=Hi%2C+I'm+Takuya+Fujisaki;Java+%26+Spring+Boot+Enthusiast;Future+Fullstack+Engineer;Learning+AWS+%26+Docker)](https://git.io/typing-svg)
-
-![Banner](./banner.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=435&lines=Hi%2C+I'm+Takuya+Fujisaki;Java+%26+Spring+Boot+Enthusiast;Future+Fullstack+Engineer)](https://git.io/typing-svg)
 
 ---
 
@@ -21,4 +19,4 @@
 ---
 
 ### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/BonchaN-val/BonchaN-val/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/BonchaN-val/BonchaN-val/output/github-contribution-grid-snake.svg)
