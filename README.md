@@ -18,5 +18,5 @@
 
 ---
 
-<!-- ### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/BonchaN66/BonchaN66/output/snake.svg) -->
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/BonchaN66/BonchaN66/output/snake.svg)
