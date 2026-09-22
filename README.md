@@ -13,8 +13,8 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonchaN66&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonchaN66&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-five-opal-36.vercel.app/api?username=BonchaN66&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-five-opal-36.vercel.app/api/top-langs/?username=BonchaN66&layout=compact&theme=radical)
 
 ---
 
